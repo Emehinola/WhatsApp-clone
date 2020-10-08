@@ -1,6 +1,6 @@
 # whatsapp
 
-A new Flutter project.
+A WhatsApp clone with flutter and Dart
 
 ## Getting Started
 
